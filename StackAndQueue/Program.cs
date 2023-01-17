@@ -14,6 +14,9 @@
             //UC_3
             Queue queue = new Queue();
             queue.Display();
+            //UC_4
+            QueueDequeue dequeue = new QueueDequeue();
+            dequeue.Display();
         }
     }
 }
