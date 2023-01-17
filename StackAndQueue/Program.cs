@@ -11,6 +11,9 @@
             //UC_2
             StackPeakPop obj = new StackPeakPop();
             obj.Display();
+            //UC_3
+            Queue queue = new Queue();
+            queue.Display();
         }
     }
 }
